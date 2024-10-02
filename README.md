@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ABHISHEK KUMAR ROY</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img src="https://img.freepik.com/free-photo/blockchain-technology-cartoon-illustration_23-2151572138.jpg?t=st=1727853209~exp=1727856809~hmac=dd978ea4f97d7e68f183bf2d3061df042f22a84efe23988e463b026bc030c0f6&w=900 width="400px" align="right">
+<img src="https://img.freepik.com/free-photo/blockchain-technology-cartoon-illustration_23-2151572138.jpg?t=st=1727853209~exp=1727856809~hmac=dd978ea4f97d7e68f183bf2d3061df042f22a84efe23988e463b026bc030c0f6&w=900" width="400px" align="right">
 - 🌱 I’m currently learning **DSA, Web development**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/abhishek-kumar-r-51a403277](www.linkedin.com/in/abhishek-kumar-r-51a403277)
